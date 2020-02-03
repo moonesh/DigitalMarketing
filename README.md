@@ -25,3 +25,6 @@
     
 **Keyword Research**
   - Keyword Everywhere [https://keywordseverywhere.com/](https://keywordseverywhere.com/)  
+
+Content Building:  
+Minimum 1500-2000 words will be required to get high rank....
