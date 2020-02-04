@@ -58,8 +58,7 @@
     - Scenario: Many people may have bought same keywords but the position on google are limited so google decided it based on the quality scoring of your Ad.  
     - Score would be 1 to 10  
     - Increase of Quality Score will decrease CPC and this is called optimization  
-    - over 1000 Impression, how many were clicked e.g. if 50 clicked happened then CPC would be (50/1000 * 100) => 5%  
-  
+    - over 1000 Impression, how many were clicked e.g. if 50 clicked happened then CPC would be (50/1000 * 100) => 5%   
     - How to increase Ads quality score:  
       1. Keywords to Ad relevance  
       2. Ad to Landing page relevance should be strong  
