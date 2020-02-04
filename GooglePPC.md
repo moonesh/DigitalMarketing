@@ -42,24 +42,28 @@
       - select "Search network"  
       - define Budget  
       - under Dynamic Search Ads  
-        - "Enable Dynamic Search for this campaign"        
-      
-      - Under Ads Group
-        - enter group name
-        - select categories
+        - Enable Dynamic Search for this campaign
+      - Under Ads Group  
+        - enter group name  
+        - select categories  
     
   **Types of Keywords**  
-    ![what-are-keyword-match-types-options-in-google-adwords.png](what-are-keyword-match-types-options-in-google-adwords.png)
+    - Broad Match Keywords       
+    - Broad modifier Keywords     
+    - Phrase Match Keywords        
+    - Exact Match Keywords      
+    ![what-are-keyword-match-types-options-in-google-adwords.png](what-are-keyword-match-types-options-in-google-adwords.png)  
     
-    - Broad Match Keywords  
-      
-      
-    - Phrase Match Keywords  
-      - 
-      
-    - Exact Match Keywords  
-    
-  **Quality Score**  
+  **Quality Score & Ads Optimization**  
+    - Scenario: Many people may have bought same keywords but the position on google are limited so google decided it based on the quality scoring of your Ad.  
+    - Score would be 1 to 10  
+    - Increase of Quality Score will decrease CPC and this is called optimization  
+    - over 1000 Impression, how many were clicked e.g. if 50 clicked happened then CPC would be (50/1000 * 100) => 5%  
   
-  **Ads Optimization**  
+    - How to increase Ads quality score:  
+      1. Keywords to Ad relevance  
+      2. Ad to Landing page relevance should be strong  
+      3. Avg Session Duration of your landing page  
+  
+  
   
