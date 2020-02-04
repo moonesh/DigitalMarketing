@@ -67,8 +67,13 @@ Minimum 1500-2000 words will be required to get high rank....
           - e.g.. somuch.com URL: [https://somuch.com/](https://somuch.com/)  
         
       2. Social BookMarking  
+        - Create post on social bookmarking site e.g...  
+           1. reddit  URL: [https://www.reddit.com/](https://www.reddit.com/)  
+           2. digg URL: [https://digg.com/](https://digg.com/)  
+           3. Tumblr URL: [https://www.tumblr.com/](https://www.tumblr.com/)  
+           
       3. Guest Blogging        
-          - Use Google search queries to find blogs accepting quest contributors:  
+          - Use Google search queries to find blogs accepting guest contributors:  
             - Your keywords + inurl:wtite-for-us  
             - Your keywords + guest-posts  
             - Your keywords + inurl:guest-post-guidelines  
