@@ -22,3 +22,15 @@
     - Creativity + Experience will give you Engagement factor  
     - Try to be funny, emotional  
     - Try to be elaborative  
+
+**Facebook Auto-Responder**  
+  - Create new business page on FB  
+  - under messaging setup auto-response for your clients  
+
+**Facebook Group to generate traffic**  
+
+**Facebook - Post Planner and Optimization**  
+
+**9 Tips for Instagram**  
+
+**LinkedIn**  
