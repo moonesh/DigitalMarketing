@@ -49,6 +49,8 @@
         - select categories
     
   **Types of Keywords**  
+    ![Adword-Keywordtypes.png](Adword-Keywordtypes.png)
+    
     - Broad Match Keywords  
       
       
