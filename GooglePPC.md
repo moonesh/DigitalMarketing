@@ -49,7 +49,7 @@
         - select categories
     
   **Types of Keywords**  
-    ![Adword-Keywordtypes.png](Adword-Keywordtypes.png)
+    ![what-are-keyword-match-types-options-in-google-adwords.png](what-are-keyword-match-types-options-in-google-adwords.png)
     
     - Broad Match Keywords  
       
