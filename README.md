@@ -60,9 +60,36 @@ Minimum 1500-2000 words will be required to get high rank....
       - Start sharing your article on social media platforms (facebook, twitter etc....)  
       
   3. Backlinking   
-    - redirection of your site mentioned in any other site and this process is known as backlinking)  
-    
-  
+    - (redirection of your site mentioned in any other site and this process is known as backlinking)  
+    - How to create Low Hanging backlinks:  
+      1. Directory Submission  
+        - Register/submit your site in directory websites to list there 
+          - e.g.. somuch.com URL: [https://somuch.com/](https://somuch.com/)  
+        
+      2. Social BookMarking  
+      3. Guest Blogging        
+          - Use Google search queries to find blogs accepting quest contributors:  
+            - Your keywords + inurl:wtite-for-us  
+            - Your keywords + guest-posts  
+            - Your keywords + inurl:guest-post-guidelines  
+            - Your keywords + become a contributor  
+            - Your keywords + blogger wanted  
+            - Your keywords + submit an article  
+            - Your keywords + want to write for  
+            - Your keywords + contribute  
+            - Your keywords + become an author  
+            - Your keywords + guest post by
+            - Your keywords + now accepting guest posts
+        
+      4. Question Answer Submission  
+      5. Forum Submission  
+      6. Article Submission  
+      7. Fair Comments  
+      8. Image Submission  
+      9. Infographic Submission  
+            
+      a. Spy on your competitors Backlinks  
+      b. Internal Linking  
   
   
   
