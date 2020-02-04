@@ -27,3 +27,37 @@
       - Define link path  
       - Brief about the Ad (provide small description)
   
+  **Ad Extension**  
+    - under campaign --> select "Ads & Extension"  
+      - Sitelinks Extension   
+      - Call Extension  
+      - Callout extension  
+      
+  **Dynamic Ads**  
+    - Following are the steps to create dynamic Ads:  
+      - Create new campaign  
+      - Select **Sales**  
+      - select campaign type  --> search
+      - campaign name  
+      - select "Search network"  
+      - define Budget  
+      - under Dynamic Search Ads  
+        - "Enable Dynamic Search for this campaign"        
+      
+      - Under Ads Group
+        - enter group name
+        - select categories
+    
+  **Types of Keywords**  
+    - Broad Match Keywords  
+      
+      
+    - Phrase Match Keywords  
+      - 
+      
+    - Exact Match Keywords  
+    
+  **Quality Score**  
+  
+  **Ads Optimization**  
+  
