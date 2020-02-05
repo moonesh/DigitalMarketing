@@ -34,3 +34,32 @@
 **9 Tips for Instagram**  
 
 **LinkedIn**  
+
+**Facebook Ad Creation**
+  - [www.facebook.com/ads/manager](www.facebook.com/ads/manager)
+  - Campaign >>> Ad Sets >>> Ad Copies
+  
+  - Where all you can run Ads via Facebook Ads
+    - Facebook --Feeds, stories, Messanger, Instant Article
+    - using facebook, you can run Ads on Instagram, Instagram Stories
+    
+  - Steps to create Campaign:
+    - provide Objective
+   
+   - Ad Sets
+    - Audience Targeting
+      - Location
+      - Age
+      
+    
+    
+
+
+
+
+
+
+
+
+
+
