@@ -12,3 +12,9 @@ You can track following : using [https://analytics.google.com/analytics/web/#/](
   - Device  
   - Browser  
   
+Report Audience  
+  - Filter out (your personal/own office traffic) (under admin section)  
+  - Create Customized Goal (to track following:)
+    - Sales
+    - Lead --> specific number of lead 
+    - User --> will remain at least 5 mins
