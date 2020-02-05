@@ -13,7 +13,7 @@ use SignUp ... EMail Address
 - Direct Sales  
 - Referral  
 
-Chrome extension: get optional to send bulk/mass mail--> **GMass**  
+Chrome extension: get optional to send bulk/mass mail--> **GMass**  [https://www.gmass.co/blog/category/chrome-extensions/](https://www.gmass.co/blog/category/chrome-extensions/)  
 similar to mail-merge tool  
 
 Benefits of using Email Marketing Tools:  
@@ -21,8 +21,8 @@ Benefits of using Email Marketing Tools:
   - Individual Email  
   - Personalized Email  
   - Schedule Email  
-  - Automation  
+  - Automation  (auto-followup)  
   - Tracking/Analysis  
   
-  
+Drip Marketing..    
 
