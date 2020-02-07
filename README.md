@@ -19,7 +19,7 @@
 [EmailMarketingAndAutomation](5_EmailMarketingAndAutomation.md)  
 
 ## 6. Lead Generation  
-[LeadGeneration](6_LeadGeneration.md	file)  
+[Lead Generation](6_LeadGeneration.md)  
 
 ## 7. Web and Google Analytics  
 [WebAndGoogleAnalytics](7_WebAndGoogleAnalytics.md)  
