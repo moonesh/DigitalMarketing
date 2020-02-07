@@ -7,7 +7,7 @@
 [Blogging](1_Blogging.md)  
 
 ## 2. Search Engine Optimization  
-[SEO)](2_SEO.md)  
+[SEO](2_SEO.md)  
 
 ## 3. Google Pay-Per-Click  
 [GooglePPC](3_GooglePPC.md)  
