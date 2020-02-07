@@ -7,7 +7,7 @@
    **Long term Content Idea Research**  
       - On the top Search bar of the Google Trends page, type specific topic for trending keyword related to that topic    
         
-## 2. Content Curation  (after finalization of content topic need to find out what content need to be write)  
+## 2. Content Curation  (after finalization of content topic, you need to find out what content need to be write)  
    **Find out sample content from other websites searched from google..**
    - Definition  
    - Why this topic matters..  
@@ -17,7 +17,7 @@
    
 ## 3. Content should be more than 2000 words  
 
-## 4. Catchy Headline or Title using blog tool  
+## 4. Catchy Headline or Title (using blog tool)  
    - Emotions   
    - Keyword (title should have your topic)  
    - **Tool** to generate blog ideas  
