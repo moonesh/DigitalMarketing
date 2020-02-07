@@ -40,9 +40,12 @@ Example of Affiliate Marketing is Amazon. visit following URL: [Amazon Associate
           3. **Facebook:**
             - Within the facebook, never mention directly for affilated-link. You need to provide your Blog URL.
           
-      - **In-Organic** (when you are new to digital marketing then you don't have traffic which you need to get traffic using **Paid Marketing**)  
+      - **In-Organic** (when you are new to digital marketing then you don't have traffic which you need to get traffic using **Paid Marketing**) Be careful on this that whatever you spend in paid marketing, it should not be more than the commision which you are going to get on the product  
       
-      
+        - For Inorganic traffic, you can do paid marketing for the Blog page which you have created for the marketing of product (using following mechanism):  
+          - Google Ads  
+          - Facebook Ads  
+          - Ads Network (e.g. [BidVertiser](https://www.bidvertiser.com/)) 
       
       
       
