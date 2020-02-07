@@ -17,6 +17,8 @@
    
 ## 3. Content should be more than 2000 words  
 
-## 4. Catchy Headline or Title  
-   - Emotions  
-   - 
+## 4. Catchy Headline or Title using blog tool  
+   - Emotions   
+   - Keyword (title should have your topic)  
+   - **Tool** to generate blog ideas  
+      - URL: [https://www.hubspot.com/blog-topic-generator)](https://www.hubspot.com/blog-topic-generator)  
