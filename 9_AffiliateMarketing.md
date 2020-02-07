@@ -8,5 +8,16 @@ To do this (Affliate Marketing) kind of marketing, you should have big number of
 Example of Affiliate Marketing is Amazon. visit following URL: [Amazon Associates Fee](https://affiliate-program.amazon.in/help/operating/schedule)
 - Its a Paid Marketing and required selection of Niche Items to sell. So based on your interest or expertise on which you are writing Blog, you choose products and do marketing for them..   
 
+## Steps to join Amazon Affilate Marketing  
+  - Go to website [Amazon Associates Fee](https://affiliate-program.amazon.in/help/operating/schedule)  
+  - Click on "Join now for Free" button on top right corner  
+  - Required active website and good quality contents  
+  
+  Within the Affilated Marketing, there are few Campaign Types e.g.  
+  - CPS (Commision per Sale)  
+  - CPL (Commision per Lead)  
+  - CPI (Comission per Installation)  e.g. recommending user to install their app...  
 
-
+## How do we generate Amazon sales?  
+  - Your amazon account and associate account should use same account-id  
+  - 
