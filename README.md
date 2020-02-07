@@ -3,23 +3,32 @@
 
 ## [https://roydigital.in/free-digital-marketing/](https://roydigital.in/free-digital-marketing/)
 
-## Blogging  
-[1_Blogging.md](1_Blogging.md)  
+## 1. Blogging  
+[Blogging](1_Blogging.md)  
 
-## Search Engine Optimization  
-[2_SEO.md)](2_SEO.md)  
+## 2. Search Engine Optimization  
+[SEO)](2_SEO.md)  
 
-## Google Pay-Per-Click  
-[3_GooglePPC.md](3_GooglePPC.md)  
+## 3. Google Pay-Per-Click  
+[GooglePPC](3_GooglePPC.md)  
 
-## Social Media Optimization and Facebook Ad Creation  
-[4_SocialMediaOptimization.md](4_SocialMediaOptimization.md)  
+## 4. Social Media Optimization and Facebook Ad Creation  
+[SocialMediaOptimization](4_SocialMediaOptimization.md)  
 
-## Email Marketing And Automation  
-[5_EmailMarketingAndAutomation.md](5_EmailMarketingAndAutomation.md)  
+## 5. Email Marketing And Automation  
+[EmailMarketingAndAutomation](5_EmailMarketingAndAutomation.md)  
 
-## Lead Generation  
-[6_LeadGeneration.md	file](6_LeadGeneration.md	file)  
+## 6. Lead Generation  
+[LeadGeneration](6_LeadGeneration.md	file)  
 
-## Web and Google Analytics  
-[7_WebAndGoogleAnalytics.md](7_WebAndGoogleAnalytics.md)  
+## 7. Web and Google Analytics  
+[WebAndGoogleAnalytics](7_WebAndGoogleAnalytics.md)  
+
+## 8. Google Ad Sense  
+[GoogleAdSense](8_GoogleAdSense.md)  
+
+## 9. Affiliate Marketing  
+[AffiliateMarketing](9_AffiliateMarketing.md)  
+
+## 10. E-Commerce  
+[E-Commerce](10_E-Commerce.md)  
