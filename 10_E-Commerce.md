@@ -19,7 +19,7 @@
     - After creating product catalog, again go to the Facebook Ad manager and select **Audience** section from **Ad Set**  
     - From **Audience** section, create new Audience either **Retarget products to people who visited your website** OR **target customers if they haven't visited your website** i.e. new customers  
     - Remember to select **Engaged Shoppers** from **Detailed Targeting** (for Behaviors > Purchase behavior) so that your Ad visible to those people who generally do shopping othwise it will be display un-necessary for those who don't do shopping..  
-    - Also from "Budget & Schedule**, select **Conversion Event** for Optimization for Ad Delivery. And the **Event Type** should be **Purchase**  
+    - Also from **Budget & Schedule**, select **Conversion Event** for Optimization for Ad Delivery. And the **Event Type** should be **Purchase**  
     - **Conversion Window** can be **7 Days click**  
     - click on continue for next step  
     - Format of Ad, you can select **Carousel** 
