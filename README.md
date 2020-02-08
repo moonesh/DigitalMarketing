@@ -15,6 +15,9 @@
 ## 4. Social Media Optimization and Facebook Ad Creation  
 [SocialMediaOptimization](4_SocialMediaOptimization.md)  
 
+## 4.1 YouTube Optimization
+[YouTubeOptimization](4.1_YouTubeOptimization.md)
+
 ## 5. Email Marketing And Automation  
 [EmailMarketingAndAutomation](5_EmailMarketingAndAutomation.md)  
 
