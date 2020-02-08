@@ -1,7 +1,7 @@
 # DigitalMarketing
 
 
-## [https://roydigital.in/free-digital-marketing/](https://roydigital.in/free-digital-marketing/)
+## [https://roydigital.in/premium-videos-library/](https://roydigital.in/premium-videos-library/)
 
 ## 1. Blogging  
 [Blogging](1_Blogging.md)  
