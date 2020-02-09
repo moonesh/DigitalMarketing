@@ -3,6 +3,17 @@
 
 ## [https://roydigital.in/premium-videos-library/](https://roydigital.in/premium-videos-library/)
 
+## Important Tools and URL(s) related to Digital Marketing:
+  - Tool to analyze earning from youtube can be monitored from socialblade - URL: [https://socialblade.com/](https://socialblade.com/)  
+  - URL for Content Idea Researching - [https://trends.google.com/trends](https://trends.google.com/trends)  
+  - To get ideas for writing blog - URL: [https://www.hubspot.com/blog-topic-generator)](https://www.hubspot.com/blog-topic-generator)   
+  - Tool to create logo and channel art, you can use online tool - URL: [https://www.canva.com/](https://www.canva.com/)  
+  - Tool to create Videos and Presentation - URL: [https://www.powtoon.com/](https://www.powtoon.com/)  
+
+  - Google Ad Sense - URL: [https://www.google.com/adsense](https://www.google.com/adsense)  
+  - Affiliate Marketing from Amazon - URL: [Amazon Associates Fee](https://affiliate-program.amazon.in/help/operating/schedule)  
+  - Other Ads Network - URL: [BidVertiser](https://www.bidvertiser.com/)  
+
 ## 1. Blogging  
 [Blogging](1_Blogging.md)  
 
