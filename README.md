@@ -14,10 +14,10 @@
   - Affiliate Marketing from Amazon - URL: [Amazon Associates Fee](https://affiliate-program.amazon.in/help/operating/schedule)  
   - Other Ads Network - URL: [BidVertiser](https://www.bidvertiser.com/)  
 
-## For website hosting, there are multiple platform who provide virtual space:  
-  - GoDaddy.com [http://godaddy.com/](http://godaddy.com/)  
-	- SiteGround [https://www.siteground.com/](https://www.siteground.com/)  
-	- HostGator [https://www.hostgator.com/](https://www.hostgator.com/)  
+## For website hosting, there are multiple platforms who provide virtual space:  
+- GoDaddy.com [http://godaddy.com/](http://godaddy.com/)  
+- SiteGround [https://www.siteground.com/](https://www.siteground.com/)  
+- HostGator [https://www.hostgator.com/](https://www.hostgator.com/)  
 
 ## 1. Blogging  
 [Blogging](1_Blogging.md)  
